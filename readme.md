@@ -3,21 +3,21 @@
 This is repo showing key tips and tricks for using go. I collect them from my experience and use them in my projects.
 
 ## Table of contents
-- 0. Usecase
-- 1. Resources for golang developers
-- 2. Go Type
-- 3. Interface
-- 4. Goroutines and channels
-- 5. Garbage collection
-- 6. Optimizations
-- 7. Generics
-- 8. Error handling
-- 9. Testing
-- 10. Debugging
-- 11. Project Structure
-- 12. Other Tips
-- 13. Data structures
-- 14. Design patterns
+0. [Usecase](#0-usecase)
+1. [Resources for golang developers](#1-resources-for-golang-developers)
+2. [Go Type](#2-go-type)
+3. [Interface](#3-interface)
+4. [Goroutines and channels](#4-goroutines-and-channels)
+5. [Garbage collection](#5-garbage-collection)
+6. [Optimizations](#6-optimizations)
+7. [Generics](#7-generics)
+8. [Error handling](#8-error-handling)
+9. [Testing](#9-testing)
+10. [Debugging](#10-debugging)
+11. [Project Structure](#11-project-structure)
+12. [Other Tips](#12-other-tips)
+13. [Data structures](#13-data-structures)
+14. [Design patterns](#14-design-patterns)
 
 ## 0. Usecase
 - Restful API server
