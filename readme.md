@@ -2,6 +2,9 @@
 
 This is repo showing key tips and tricks for using go. I collect them from my experience and use them in my projects.
 
+## 1. Resources interview
+- [Algo](algo.md)
+
 ## Table of contents
 0. [Usecase](#0-usecase)
 1. [Resources for golang developers](#1-resources-for-golang-developers)
