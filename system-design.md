@@ -1,7 +1,5 @@
 # System Design
 
-# System Design Interview Mind Map
-
 ## 1. **Start with Requirements:**
    - Clearly understand the problem statement and requirements.
    - Identify key features and constraints.
