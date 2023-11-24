@@ -4,6 +4,8 @@ This is repo showing key tips and tricks for using go. I collect them from my ex
 
 ## 1. Resources interview
 - [Algo](algo.md)
+- [Database](database.md)
+- [System Design](system-design.md)
 
 ## Table of contents
 0. [Usecase](#0-usecase)
